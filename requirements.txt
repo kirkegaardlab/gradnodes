@@ -1,0 +1,10 @@
+jax
+optax
+numba
+matplotlib
+numpy
+tqdm
+scipy
+ffmpeg-python
+boundvor
+simple-pytree@git+https://github.com/cgarciae/simple-pytree.git
